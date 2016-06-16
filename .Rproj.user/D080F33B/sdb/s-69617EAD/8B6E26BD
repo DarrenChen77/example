@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "x <- 1\nhead(iris)\ny <- 2",
+    "created" : 1466044400883.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "458591784",
+    "id" : "8B6E26BD",
+    "lastKnownWriteTime" : 1466044756,
+    "last_content_update" : 1466044756206,
+    "path" : "~/GitHub/example/iris.r",
+    "project_path" : "iris.r",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
